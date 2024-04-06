@@ -1,0 +1,10 @@
+
+p
+java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º‚«ü8ÝÌ¦ðê1
+»
+java:S6548
+"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ÇÕ§èüÿÿÿÿ8ÞÌ¦ðê1
+n
+java:S1128"LRemove this unused import 'com.sun.org.apache.xpath.internal.operations.Or'.(µõ³‚øÿÿÿÿ8ñÙ¼ñê1
+G
+java:S1128"*Remove this unused import 'model.Product'.(–Ö„š8ñÙ¼ñê1

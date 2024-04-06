@@ -1,0 +1,10 @@
+
+G	java:S106""+Replace this use of System.out by a logger.(ϊ½σΥ8Ξίτρκ1
+L	java:S106&"+Replace this use of System.out by a logger.(ΤωΓΒψÿÿÿÿ8Ξίτρκ1
+G	java:S106'"+Replace this use of System.out by a logger.(Ώθ®Ξ8Ξίτρκ1
+L	java:S106."+Replace this use of System.out by a logger.(‘‚“ύÿÿÿÿ8Ξίτρκ1
+G	java:S106/"+Replace this use of System.out by a logger.(Ώθ®Ξ8Ξίτρκ1
+F	java:S1064"+Replace this use of System.out by a logger.(»ή`8Οίτρκ1
+G	java:S1065"+Replace this use of System.out by a logger.(Ώθ®Ξ8Οίτρκ1
+h
+java:S1128"FRemove this unused import 'java.util.concurrent.atomic.AtomicInteger'.(Ώκδψÿÿÿÿ8Οίτρκ1
